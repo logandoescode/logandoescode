@@ -1,7 +1,7 @@
 ### Hey there!
 
 I'm LoganDoesCode\*. Before you dive into my profile, here are a few things I want you to know about me!
-- 🎗️I am a 15-year-old with [Autism](https://en.wikipedia.org/wiki/Autism)!
+- 🎗️I am a 16-year-old with [Autism](https://en.wikipedia.org/wiki/Autism)!
 - 📖 I am a student at [DirectionalCIC](https://www.directional-cic.co.uk/)!
 
 - 💻 You can reach me via the following:
