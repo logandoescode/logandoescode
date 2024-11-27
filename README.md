@@ -1,7 +1,7 @@
 ### Hey there!
 
 I'm LoganDoesCode. Before you dive into my profile, here are a few things I want you to know about me!
-- 🎗️I am a 16-year-old with [Autism](https://en.wikipedia.org/wiki/Autism)!
+- 🎗️I am a 17-year-old with [Aspergers](https://en.wikipedia.org/wiki/Aspergers)!
 
 - 💻 You can reach me via the following:
   - <a href="https://github.com/logandoescode"><img width="16px" height="16px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fpurple%2Fgithub-64.gif&f=1&nofb=1&ipt=f176507bf42bd486b2eec7a8ea38c31ee2a1176161356f13181665d7b3104e14&ipo=images"></a>
